@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Ambiente (nunca versionar credenciais)
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# SO
+.DS_Store
